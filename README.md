@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Baris-Bikmaz
-- 👀 I’m interested in frontend development, new technologies, basketball and old american cars.
+- 👀 I’m interested in frontend development, new technologies, basketball and soccer.
 - 🏠 Living in the center of Switzerland, between mountains and cows...
 
 <!---
